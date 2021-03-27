@@ -13,9 +13,11 @@ class App extends Component {
         <p>
           Oscar Jeremías Avelar Escobar
         </p>
+        <main>
         <p>
           oscaravelarje@gmail.com
         </p>
+        </main> 
       </div>
     );
   }
